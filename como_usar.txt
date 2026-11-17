@@ -1,0 +1,11 @@
+O arquivo principal é "yolo_to_video.py". 
+Antes de rodar o arquivo você precisa instalar as dependencias (pacotes) do YOLO para começar.
+
+Dentro da pasta/diretório, abra um bash (terminal) e digite "source .venv/bin/activate". Esse comando
+ativa um ambiente isolado do python na sua maquina (basta ver que aparece um "(.venv)" no seu bash agora)
+
+Depois disso você precisa instalar as dependencias.. como estamos falando de visão computacional e modelos vai demorar
+um pouco. Mas para instalar pasta digitar no bash "pip install -r requirements.txt".
+
+Depois disso, você já pode começar a utilizar o código livremente para aplicar o modelo de visão computacional aos seus videos.
+Pra saber mais sobre os parametros do modelo leia o README.md
