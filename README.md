@@ -1,4 +1,7 @@
-# YOLO com Python
+# Deep Learning em Video (Python)
+
+<img src="assets/image.png" width="600">
+
 
 ## 1. Introdução
 
