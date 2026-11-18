@@ -1,7 +1,8 @@
-# Deep Learning em Video (Python)
+#       Deep Learning em Video (Python)
 
-<img src="assets/image.png" width="600">
-
+<p align="center">
+    <img src="assets/image.png" width="800">
+</p>
 
 ## 1. Introdução
 
